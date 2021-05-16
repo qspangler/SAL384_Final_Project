@@ -1,9 +1,10 @@
 # SAL384_Final_Project
  
 `SAL Final Project Data Scrape.ipynb`
+
 This code will allow one to scrape the "team batting" table on baseball reference. 
 
-Reformatting and reclassification of column data types is done for easier analysis.
+Reformatting and reclassification of column data types is done for easier analysis. PItchers and additional column headers scraped from baseball-reference are deleted. This leaves 695 players should remain once these rows are removed.
 
 Percentiles are calculated to allow for easier comparision. This is how the data was collected for the dashboard that we created.
 
